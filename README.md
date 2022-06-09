@@ -1,2 +1,3 @@
 # da-ebac-marcia
-exercicio 18 ebac
+Exercicio de criação de gráfico através de um arquivo gasolina.csv
+postagem do projeto no github
